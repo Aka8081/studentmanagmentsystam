@@ -61,7 +61,7 @@
                             </tr>
                             <tr>
                                 <th>Record Added By</th>
-                                <td>{{ $result->added_by }}</td>
+                                <td>{{ $result->record_added_by }}</td>
                             </tr>
                         </tbody>
                     </table>
